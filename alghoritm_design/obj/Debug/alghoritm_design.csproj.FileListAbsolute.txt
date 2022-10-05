@@ -1,0 +1,13 @@
+D:\ostad sbti\alghoritm_design\alghoritm_design\bin\Debug\alghoritm_design.exe.config
+D:\ostad sbti\alghoritm_design\alghoritm_design\bin\Debug\alghoritm_design.exe
+D:\ostad sbti\alghoritm_design\alghoritm_design\bin\Debug\alghoritm_design.pdb
+D:\ostad sbti\alghoritm_design\alghoritm_design\obj\Debug\alghoritm_design.csprojResolveAssemblyReference.cache
+D:\ostad sbti\alghoritm_design\alghoritm_design\obj\Debug\alghoritm_design.exe
+D:\ostad sbti\alghoritm_design\alghoritm_design\obj\Debug\alghoritm_design.pdb
+D:\PrograminApps\ostad sbti\alghoritm_design\alghoritm_design\bin\Debug\alghoritm_design.exe.config
+D:\PrograminApps\ostad sbti\alghoritm_design\alghoritm_design\bin\Debug\alghoritm_design.exe
+D:\PrograminApps\ostad sbti\alghoritm_design\alghoritm_design\bin\Debug\alghoritm_design.pdb
+D:\PrograminApps\ostad sbti\alghoritm_design\alghoritm_design\obj\Debug\alghoritm_design.csprojAssemblyReference.cache
+D:\PrograminApps\ostad sbti\alghoritm_design\alghoritm_design\obj\Debug\alghoritm_design.csproj.CoreCompileInputs.cache
+D:\PrograminApps\ostad sbti\alghoritm_design\alghoritm_design\obj\Debug\alghoritm_design.exe
+D:\PrograminApps\ostad sbti\alghoritm_design\alghoritm_design\obj\Debug\alghoritm_design.pdb
